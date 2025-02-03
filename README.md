@@ -11,3 +11,7 @@ Fixed UI glitches on smaller screen devices
 Fixed login bug causing app crash on invalid credentials
 Optimized API calls to improve app performance
 Resolved UI overlap issue in checkout scree
+intan ayan ku dari laha shaqada
+Initial commit: Set up Flutter project with basic structure"
+Updated README with project details and setup instructions"
+Refactored code for better readability and maintainability"
