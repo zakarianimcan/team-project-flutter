@@ -1,4 +1,4 @@
-# team-project-flutter
+# Food delivery app with flutter
 ani waxan ku darsana Added user authentication with Firebase (Login, Signup, Logout)
 Implemented email verification for new users
 Fixed issue with password reset functionality
